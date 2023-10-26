@@ -2,7 +2,7 @@
 Here is some audio data for wind turbine blades(Real&amp;&amp;Simulated)
 
 # Introduction
-The microphone used for this data collection is a PCB 378C10 random incident microphone, which is mounted approximately 5m directly below the wind turbine pole.
+The microphone used for this data collection is a PCB 378C10 random incident microphone, which is mounted approximately 15m directly below the wind turbine pole.
 
 # Why is PCB 378C10?
 Construction: With a 1/4-inch microphone diameter, the PCB 378C10 is a relatively compact design, which may make it ideal for use in a variety of environments.
