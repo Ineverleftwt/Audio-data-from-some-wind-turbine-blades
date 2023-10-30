@@ -13,7 +13,3 @@ Dynamic range: The dynamic range is 173 dB re 20 µPa, which may mean that the t
 
 # Necessary Explanation
 Inevitably, there is some high-frequency noise in some audio collection processes, which is mainly related to some blades with varying degrees of damage cracks. We have made some artificial changes to the audio, but we have done our best to ensure that the audio is intact. Therefore, there is an error in the experimental effect, but we do not believe that this affects its ability to be used as a basis for research.
-
-# A simulation of the data collection environment
-The following figure shows the data collection environment Simulation diagram
-![A simulation of the data collection environment](https://github.com/Ineverleftwt/Audio-data-from-some-wind-turbine-blades/assets/149078141/dd399253-4211-4051-ac9a-e7d6ffd90e23)
