@@ -2,7 +2,7 @@
 Here is some audio data for wind turbine blades(Real&amp;&amp;Simulated)
 
 # Introduction
-The microphone used for this data collection is a PCB 378C10 random incident microphone, which is mounted approximately 15m directly below the wind turbine pole.
+The microphone used for this data collection is a PCB 378C10 random incident microphone, which is mounted approximately 15m directly below the wind turbine pole. The wind speed at the test site was 3 meters per second.
 
 # Why is PCB 378C10?
 Construction: With a 1/4-inch microphone diameter, the PCB 378C10 is a relatively compact design, which may make it ideal for use in a variety of environments.
@@ -14,5 +14,5 @@ Dynamic range: The dynamic range is 173 dB re 20 µPa, which may mean that the t
 # Necessary Explanation
 Inevitably, there is some high-frequency noise in some audio collection processes, which is mainly related to some blades with varying degrees of damage cracks. We have made some artificial changes to the audio, but we have done our best to ensure that the audio is intact. Therefore, there is an error in the experimental effect, but we do not believe that this affects its ability to be used as a basis for research.
 
-# Data Description
-The uploaded 12-minute audio contains damage signals.
+# Description of training and validation sets
+The uploaded 12-minute audio contains damage signals. Only one of the blades of this wind turbine is damaged. Since the wind speed at the test site was 3 meters per second, the damage signals appeared in roughly 12-second cycles.
