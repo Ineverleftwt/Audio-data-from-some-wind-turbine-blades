@@ -13,3 +13,6 @@ Dynamic range: The dynamic range is 173 dB re 20 µPa, which may mean that the t
 
 # Necessary Explanation
 Inevitably, there is some high-frequency noise in some audio collection processes, which is mainly related to some blades with varying degrees of damage cracks. We have made some artificial changes to the audio, but we have done our best to ensure that the audio is intact. Therefore, there is an error in the experimental effect, but we do not believe that this affects its ability to be used as a basis for research.
+
+# Data Description
+The uploaded 12-minute audio contains damage signals.
